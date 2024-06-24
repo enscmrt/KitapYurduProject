@@ -59,4 +59,7 @@ public class HomePage {
         searchBox.sendKeys(productName + Keys.ENTER);
         LOG.info("User search this product " + productName);
     }
+    public void searchProduct(){
+
+    }
 }
